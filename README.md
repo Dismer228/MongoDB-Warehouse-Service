@@ -16,3 +16,5 @@ Warehouse service, using Docker (to setup and run DB), python (pymongo, bson, Fl
 #  Get statistics on product categories.
 #  Clear the database.
 
+
+
