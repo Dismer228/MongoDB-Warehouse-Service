@@ -1,8 +1,8 @@
 # MongoDB-Warehouse-Management-Service
 Warehouse service, using Docker (to setup and run DB), python (pymongo, Flask libraries needed) and Postman with PUT,GET,POST,DELETE methods. Includes these methods: 
-Register a new product 
-List all products, optionally in a category
-Get product details
+#Register a new product 
+#List all products, optionally in a category
+#Get product details
 Delete a product
 Register a new warehouse
 Get warehouse details
